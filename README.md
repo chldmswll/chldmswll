@@ -9,9 +9,10 @@
 - repository : project_open
 - 교육 앱 개발 제안서
 
-### 😄 자율주행 프로그래밍 프로젝트 - 최소시간&최소곡률
-- 
+### 😄 자율주행 프로그래밍 프로젝트 - 최소시간 & 최소곡률
+- repository : ADP-Project
 - ROS2 패키지 생성 ( 글로벌 패키지 담당! ) 
+- branch - Eunji 담당
 
 ### ⚡ 머신러닝 관련 프로젝트
 - repository : machine_learning
