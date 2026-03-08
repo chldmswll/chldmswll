@@ -1,16 +1,13 @@
-## Hi there 👋
+## 🚀 Projects
 
-<!--
-**chldmswll/chldmswll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 PGPJ
+- GitHub: https://github.com/shareykim/pgpj
+- 프로그래밍 및 실습 프로젝트 ( 최적 경로 추천 지도 웹사이트 )
 
-Here are some ideas to get you started:
+### 👯 오픈소스기초설계 프로젝트 제안서
+- repository 이름 : project_open
+-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 😄 자율주행 프로그래밍 프로젝트 - 최소시간&최소곡률
+- 
+- ROS2 패키지 생성 ( 글로벌 패키지 담당! ) 
