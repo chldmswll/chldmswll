@@ -3,6 +3,7 @@
 ### 🌱 PGPJ
 - GitHub: https://github.com/shareykim/pgpj
 - 프로그래밍 및 실습 프로젝트 ( 최적 경로 추천 지도 웹사이트 )
+- branch : eunjichoi 담당
 
 ### 👯 오픈소스기초설계 프로젝트 제안서
 - repository 이름 : project_open
